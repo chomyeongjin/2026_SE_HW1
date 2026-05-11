@@ -1,0 +1,16 @@
+[chomyeongjin] Mon May 11 19:49:13 2026 +0900 전체 수정 (1) b7ff4cf
+[chomyeongjin] Mon May 11 19:30:30 2026 +0900 로그인, 회원탈퇴, 설문 응답 description 작성 b75a4e3
+[stingmon] Mon May 11 15:02:57 2026 +0900 docs: requirement list 추가 및 역할 분담 내용 추가 165bf7a
+[Kunwoo Kim] Mon May 11 10:00:15 2026 +0900 docs: usecase description 추가 0a9f27e
+[Kunwoo Kim] Mon May 11 09:50:58 2026 +0900 docs: requirement list 추가 및 역할 분담 내용 추가 d4ba9d1
+[chomyeongjin] Mon May 11 03:38:52 2026 +0900 requirement list 작성 26f0b47
+[Kunwoo Kim] Sun May 10 22:39:15 2026 +0900 docs: Usecase 다이어그램 추가 322184b
+[stingmon] Sun May 10 22:27:04 2026 +0900 Docs : use case 수정 1a95211
+[stingmon] Sun May 10 22:23:17 2026 +0900 Docs : 설문등록, 설문 리스트 조회, 통계조회 추가 4410428
+[stingmon] Sun May 10 22:19:17 2026 +0900 Docs : 설문 등록 6번 추가 e8d8a11
+[stingmon] Sun May 10 22:15:42 2026 +0900 Docs : 8번 수정 bfbc4d2
+[stingmon] Sun May 10 22:09:37 2026 +0900 Docs : 표 수정 0764994
+[stingmon] Sun May 10 22:08:17 2026 +0900 Docs : 표 수정 dd20e44
+[stingmon] Sun May 10 20:27:29 2026 +0900 Docs : 7,8,9,10,11 요구사항 리스트 추가 eb98907
+[chomyeongjin] Sun May 10 01:39:10 2026 +0900 usecase descriptions 초안 수정 b1bc909
+[chomyeongjin] Sun May 10 01:02:08 2026 +0900 초안파일 184f322
