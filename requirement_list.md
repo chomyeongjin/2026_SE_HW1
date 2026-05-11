@@ -7,7 +7,7 @@
 |---|----|---|------|
 | C144018 | 조명진 | UI 화면 설계, 회원 관련 requirement, discription 작성 | 회원 및 관리자 로그인, 탈퇴, 설문조사 응답 기능에 대한 requirement list 및 discription 작성, 각 use case에 대한 UI 화면 구성 |
 | C135041 | 김건우 | usecase diagram 작성, requirement 작성, description 작성 | 회원가입, 설문 검색, 설문 상세정보 조회 기능에 대한 requirement list 및 discription 작성, starUML tool을 활용한 usecase diagram 작성 |
-| B898061 | 이상혁 |
+| B898061 | 이상혁 | 관리자 관련 requirement, discription 작성 | 설문 등록, 설문 리스트 조회(관리자), 통계조회에 대한 requirement list 및 discription 작성 | 
 
 ---
 
